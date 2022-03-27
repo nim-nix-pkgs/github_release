@@ -11,6 +11,7 @@
   inputs.src-github_release-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-github_release-v0_1_0.owner = "kdheepak";
   inputs.src-github_release-v0_1_0.repo  = "github-release";
+  inputs.src-github_release-v0_1_0.dir   = "";
   inputs.src-github_release-v0_1_0.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";

@@ -11,6 +11,7 @@
   inputs.src-github_release-master.ref   = "refs/heads/master";
   inputs.src-github_release-master.owner = "kdheepak";
   inputs.src-github_release-master.repo  = "github-release";
+  inputs.src-github_release-master.dir   = "";
   inputs.src-github_release-master.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
